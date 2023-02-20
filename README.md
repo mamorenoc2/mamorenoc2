@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there, Wellcome to my space!✌🏾
 
-<!--
-**mamorenoc2/mamorenoc2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working Python, SQL, Pandas, Matplotlib, Data Visualization and Data Cleaning
+🌱 I’m currently learning Machine Learning
+💬 Ask me about anything!
+📫 How to reach me: mamorenoc2@gmail.com
+⚡ Fun fact: Before I wanted to study architecture, but now I'm a 1 year away from graduating in systems engineering🤣🤣🤣
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamorenoc2&theme=transparent&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamorenoc2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mammorenoc2&theme=dark)](https://git.io/streak-stats)
