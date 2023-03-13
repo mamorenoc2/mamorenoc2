@@ -1,6 +1,6 @@
 # Hi there, Wellcome to my space!✌🏾
 
-🔭 I’m currently working Python, SQL, Pandas, Matplotlib, Data Visualization and Data Cleaning
+🔭 I’m currently working Python, JavaScript, HTML, CSS
 
 🌱 I’m currently learning Machine Learning
 
