@@ -8,6 +8,8 @@
 
 📫 How to reach me: mamorenoc2@gmail.com
 
+🖥️ My Porfolio: https://mamorenoc2.github.io/manuela-data-science.github.io/#work
+
 ⚡ Fun fact: Before I wanted to study architecture, but now I'm a 1 year away from graduating in systems engineering🤣🤣🤣
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamorenoc2&theme=transparent&show_icons=true)
