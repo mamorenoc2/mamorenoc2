@@ -15,3 +15,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamorenoc2&theme=transparent&show_icons=true) [![GitHub Streak](https://streak-stats.demolab.com/?user=mamorenoc2&theme=tokyonight_duo)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamorenoc2&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
