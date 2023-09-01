@@ -17,4 +17,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamorenoc2&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
+```txt
+Dart             4 hrs 21 mins   ████████████████░░░░░░░░░   64.31 %
+JavaScript       1 hr 20 mins    █████░░░░░░░░░░░░░░░░░░░░   19.84 %
+HTML             44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
+YAML             8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+JSON             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+```
+
 <!--END_SECTION:waka-->
