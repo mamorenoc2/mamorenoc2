@@ -1,5 +1,4 @@
 # Hi there, Wellcome to my space!✌🏾
-# Hi! I'm Manuela 👋
 
 ## About me
 
